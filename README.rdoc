@@ -1,0 +1,4 @@
+= cstrike_parser
+
+== Thanks
+Special thanks to http://txt2re.com/ for helping with the regular expressions.

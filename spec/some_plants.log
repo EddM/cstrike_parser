@@ -1,0 +1,58 @@
+L 02/02/2011 - 23:19:13: Log file started (file "logs/L0202004.log") (game "cstrike") (version "48/1.1.2.6/Stdio/4617")
+L 02/02/2011 - 23:19:13: Server say "SkillTracker logging enabled
+"
+L 02/02/2011 - 23:28:41: "Angel<28><STEAM_0:0:125355><TERRORIST>" say_team "LOL" (dead)
+L 02/02/2011 - 23:28:41: "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" triggered "Planted_The_Bomb"
+L 02/02/2011 - 23:28:44: "q(^.^)p<23><STEAM_0:0:19679246><TERRORIST>" say_team ":DDD" (dead)
+L 02/02/2011 - 23:28:47: "boab<24><STEAM_0:0:202865><CT>" attacked "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" with "usp" (damage "13") (damage_armor "6") (health "12") (armor "77")
+L 02/02/2011 - 23:28:47: "boab<24><STEAM_0:0:202865><CT>" attacked "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" with "usp" (damage "14") (damage_armor "7") (health "-2") (armor "70")
+L 02/02/2011 - 23:28:47: "boab<24><STEAM_0:0:202865><CT>" killed "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" with "usp"
+L 02/02/2011 - 23:28:49: "boab<24><STEAM_0:0:202865><CT>" triggered "Begin_Bomb_Defuse_With_Kit"
+L 02/02/2011 - 23:28:53: "rossmachine<21><STEAM_0:0:7861523><CT>" say "SKILLZ"
+L 02/02/2011 - 23:28:54: "boab<24><STEAM_0:0:202865><CT>" triggered "Defused_The_Bomb"
+L 02/02/2011 - 23:28:54: Team "CT" triggered "Bomb_Defused" (CT "1") (T "7")
+L 02/02/2011 - 23:28:57: "Angel<28><STEAM_0:0:125355><TERRORIST>" say_team "LOL" (dead)
+L 02/02/2011 - 23:28:59: "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 02/02/2011 - 23:29:03: "aidy<26><STEAM_0:0:27344><CT>" say_team "dan bait yourself for me so i can get some kills"
+L 02/02/2011 - 23:29:09: World triggered "Round_Start"
+L 02/02/2011 - 23:29:10: "danny zuko<29><STEAM_0:1:371901><CT>" say_team "i did that before"
+L 02/02/2011 - 23:29:13: "rossmachine<21><STEAM_0:0:7861523><CT>" attacked "Luiki<27><STEAM_0:1:33796954><TERRORIST>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 02/02/2011 - 23:29:13: "rossmachine<21><STEAM_0:0:7861523><CT>" killed "Luiki<27><STEAM_0:1:33796954><TERRORIST>" with "awp"
+L 02/02/2011 - 23:29:22: "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" triggered "Dropped_The_Bomb"
+L 02/02/2011 - 23:29:24: "q(^.^)p<23><STEAM_0:0:19679246><TERRORIST>" triggered "Got_The_Bomb"
+L 02/02/2011 - 23:29:51: "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" attacked "aidy<26><STEAM_0:0:27344><CT>" with "grenade" (damage "27") (damage_armor "14") (health "73") (armor "86")
+L 02/02/2011 - 23:29:51: "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" attacked "danny zuko<29><STEAM_0:1:371901><CT>" with "grenade" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 02/02/2011 - 23:29:52: "q(^.^)p<23><STEAM_0:0:19679246><TERRORIST>" attacked "aidy<26><STEAM_0:0:27344><CT>" with "ak47" (damage "12") (damage_armor "2") (health "61") (armor "84")
+L 02/02/2011 - 23:29:52: "aidy<26><STEAM_0:0:27344><CT>" attacked "q(^.^)p<23><STEAM_0:0:19679246><TERRORIST>" with "m4a1" (damage "9") (damage_armor "3") (health "91") (armor "97")
+L 02/02/2011 - 23:29:57: "Angel<28><STEAM_0:0:125355><TERRORIST>" attacked "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" with "grenade" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 02/02/2011 - 23:29:57: "q(^.^)p<23><STEAM_0:0:19679246><TERRORIST>" attacked "aidy<26><STEAM_0:0:27344><CT>" with "grenade" (damage "18") (damage_armor "10") (health "43") (armor "74")
+L 02/02/2011 - 23:29:57: "q(^.^)p<23><STEAM_0:0:19679246><TERRORIST>" attacked "danny zuko<29><STEAM_0:1:371901><CT>" with "grenade" (damage "41") (damage_armor "0") (health "26") (armor "0")
+L 02/02/2011 - 23:30:04: "Angel<28><STEAM_0:0:125355><TERRORIST>" attacked "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" with "awp" (damage "49") (damage_armor "0") (health "30") (armor "0")
+L 02/02/2011 - 23:30:05: "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" attacked "danny zuko<29><STEAM_0:1:371901><CT>" with "m3" (damage "52") (damage_armor "0") (health "-26") (armor "0")
+L 02/02/2011 - 23:30:05: "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" killed "danny zuko<29><STEAM_0:1:371901><CT>" with "m3"
+L 02/02/2011 - 23:30:07: "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" attacked "aidy<26><STEAM_0:0:27344><CT>" with "m3" (damage "26") (damage_armor "13") (health "17") (armor "61")
+L 02/02/2011 - 23:30:09: "davis<30><STEAM_0:1:2686074><TERRORIST>" attacked "w2pr<31><STEAM_0:0:13415050><CT>" with "grenade" (damage "5") (damage_armor "0") (health "95") (armor "0")
+L 02/02/2011 - 23:30:10: "aidy<26><STEAM_0:0:27344><CT>" attacked "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "0") (armor "0")
+L 02/02/2011 - 23:30:10: "aidy<26><STEAM_0:0:27344><CT>" killed "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" with "m4a1"
+L 02/02/2011 - 23:30:11: "Angel<28><STEAM_0:0:125355><TERRORIST>" attacked "aidy<26><STEAM_0:0:27344><CT>" with "awp" (damage "436") (damage_armor "5") (health "-419") (armor "56")
+L 02/02/2011 - 23:30:11: "Angel<28><STEAM_0:0:125355><TERRORIST>" killed "aidy<26><STEAM_0:0:27344><CT>" with "awp"
+L 02/02/2011 - 23:30:14: "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" say "pwnd u aidy" (dead)
+L 02/02/2011 - 23:30:16: "depn Vinn0w'<25><STEAM_0:0:30817665><TERRORIST>" say "with hs :D" (dead)
+L 02/02/2011 - 23:30:22: "Angel<28><STEAM_0:0:125355><TERRORIST>" attacked "boab<24><STEAM_0:0:202865><CT>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 02/02/2011 - 23:30:22: "Angel<28><STEAM_0:0:125355><TERRORIST>" killed "boab<24><STEAM_0:0:202865><CT>" with "awp"
+L 02/02/2011 - 23:30:24: "w2pr<31><STEAM_0:0:13415050><CT>" attacked "Angel<28><STEAM_0:0:125355><TERRORIST>" with "m4a1" (damage "27") (damage_armor "6") (health "70") (armor "94")
+L 02/02/2011 - 23:30:24: "w2pr<31><STEAM_0:0:13415050><CT>" attacked "Angel<28><STEAM_0:0:125355><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "49") (armor "89")
+L 02/02/2011 - 23:30:24: "w2pr<31><STEAM_0:0:13415050><CT>" attacked "Angel<28><STEAM_0:0:125355><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "28") (armor "84")
+L 02/02/2011 - 23:30:24: "q(^.^)p<23><STEAM_0:0:19679246><TERRORIST>" attacked "rossmachine<21><STEAM_0:0:7861523><CT>" with "ak47" (damage "24") (damage_armor "0") (health "76") (armor "97")
+L 02/02/2011 - 23:30:24: "w2pr<31><STEAM_0:0:13415050><CT>" attacked "Angel<28><STEAM_0:0:125355><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "7") (armor "80")
+L 02/02/2011 - 23:30:25: "w2pr<31><STEAM_0:0:13415050><CT>" attacked "Angel<28><STEAM_0:0:125355><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "-16") (armor "80")
+L 02/02/2011 - 23:30:25: "w2pr<31><STEAM_0:0:13415050><CT>" killed "Angel<28><STEAM_0:0:125355><TERRORIST>" with "m4a1"
+L 02/02/2011 - 23:30:25: "q(^.^)p<23><STEAM_0:0:19679246><TERRORIST>" attacked "rossmachine<21><STEAM_0:0:7861523><CT>" with "ak47" (damage "99") (damage_armor "14") (health "-23") (armor "83")
+L 02/02/2011 - 23:30:25: "q(^.^)p<23><STEAM_0:0:19679246><TERRORIST>" killed "rossmachine<21><STEAM_0:0:7861523><CT>" with "ak47"
+L 02/02/2011 - 23:30:29: "davis<30><STEAM_0:1:2686074><TERRORIST>" attacked "w2pr<31><STEAM_0:0:13415050><CT>" with "deagle" (damage "36") (damage_armor "0") (health "59") (armor "0")
+L 02/02/2011 - 23:30:30: "davis<30><STEAM_0:1:2686074><TERRORIST>" attacked "w2pr<31><STEAM_0:0:13415050><CT>" with "deagle" (damage "144") (damage_armor "0") (health "-85") (armor "0")
+L 02/02/2011 - 23:30:30: "davis<30><STEAM_0:1:2686074><TERRORIST>" killed "w2pr<31><STEAM_0:0:13415050><CT>" with "deagle"
+L 02/02/2011 - 23:30:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "8")
+L 02/02/2011 - 23:30:30: "q(^.^)p<23><STEAM_0:0:19679246><TERRORIST>" triggered "Planted_The_Bomb"
+L 02/02/2011 - 23:30:33: "danny zuko<29><STEAM_0:1:371901><CT>" say_team "double shotgun headshot lol.." (dead)
+L 02/02/2011 - 23:30:35: "Luiki<27><STEAM_0:1:33796954><TERRORIST>" triggered "Spawned_With_The_Bomb"
