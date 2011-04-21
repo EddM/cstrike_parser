@@ -19,6 +19,9 @@ L 02/02/2011 - 23:28:54: "boab<5><STEAM_0:0:202865><CT>" triggered "Defused_The_
 L 02/11/2011 - 22:18:19: "rohgneS<14><STEAM_0:1:15773382><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
 L 02/02/2011 - 23:28:49: "boab<24><STEAM_0:0:202865><CT>" triggered "Begin_Bomb_Defuse_With_Kit"
 L 02/02/2011 - 23:28:53: "rossmachine<21><STEAM_0:0:7861523><CT>" say "SKILLZ"
+L 02/11/2011 - 22:18:21: "rohgneS<14><STEAM_0:1:15773382><TERRORIST>" attacked "boab<5><STEAM_0:0:202865><CT>" with "glock18" (damage "17") (damage_armor "0") (health "29") (armor "0")
+L 02/11/2011 - 22:18:21: "rohgneS<14><STEAM_0:1:15773382><TERRORIST>" attacked "boab<5><STEAM_0:0:202865><CT>" with "glock18" (damage "68") (damage_armor "0") (health "-39") (armor "0")
+L 02/11/2011 - 22:18:21: "rohgneS<14><STEAM_0:1:15773382><TERRORIST>" killed "boab<5><STEAM_0:0:202865><CT>" with "glock18"
 L 02/02/2011 - 23:28:54: "boab<24><STEAM_0:0:202865><CT>" triggered "Defused_The_Bomb"
 L 02/11/2011 - 22:18:19: "boab<5><STEAM_0:0:202865><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
 L 02/11/2011 - 22:18:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
