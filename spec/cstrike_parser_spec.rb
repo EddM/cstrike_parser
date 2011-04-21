@@ -12,10 +12,6 @@ describe CStrikeParser do
       DataMapper.auto_migrate!
   end
   
-  it "should set up data mapper" do
-    csp = CStrikeParser.new(File.expand_path(File.dirname(__FILE__) + '/empty.log'))
-  end
-  
   it "should find a session" do
     csp = CStrikeParser.new(File.expand_path(File.dirname(__FILE__) + '/some_messages.log'))
     sessions = csp.parse!
